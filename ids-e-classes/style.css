@@ -1,0 +1,16 @@
+#descricao-game, #descricao-pc{
+    background-color: red;
+}
+
+
+
+/* forma errada abaixo, a de cima é menos verboso diminiu o codigo */
+
+
+/* #descricao-game{
+    background-color: red;
+}
+
+#descricao-pc{
+    background-color: red;
+} */
